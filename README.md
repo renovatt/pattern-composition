@@ -1,8 +1,8 @@
-<div align='center'>
+<!-- <div align='center'>
 <img src="./public/icon-512x512.png" width="50px"></h1>
 <br/> <br/>
 <h1>Pattern de Composição</h1> 
-</div>
+</div> -->
 
 ## Descrição
 
